@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "username": "lionelmessi",
+      "email": "leo@gmail.com",
+      "phone": "9088746378",
+      "website": "lm10argentine.org"
+    },
+    {
+      "id": 2,
+      "name": "Cristiano Ronaldo",
+      "username": "cristiano",
+      "email": "cr7portugese@gmail.com",
+      "phone": "9288746378",
+      "website": "cristiano7.org"
+    },
+    {
+      "id": 3,
+      "name": "Neymar Jnr",
+      "username": "neymarjnr",
+      "email": "ney11@gmail.com",
+      "phone": "9188746338",
+      "website": "neymar.org"
+    },
+    {
+      "id": 4,
+      "name": "Virat Kohli",
+      "username": "virat.kohli",
+      "email": "vk18@gmail.com",
+      "phone": "9788746379",
+      "website": "vkoneeight.org"
+    },
+    {
+      "id": 5,
+      "name": "MS Dhoni",
+      "username": "msdhoni",
+      "email": "mahi17@gmail.com",
+      "phone": "9888746377",
+      "website": "mahi17.org"
+    }
+  ]
+}
